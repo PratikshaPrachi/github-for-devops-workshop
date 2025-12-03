@@ -1,0 +1,9 @@
+  python python.py
+    python testing.py
+    python testing.py
+   5 node testing.js
+   6 git init
+   7 git status
+   8 git add .
+   9 git status
+  10 git commit -m "added testing files"
