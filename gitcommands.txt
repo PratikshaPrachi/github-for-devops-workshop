@@ -7,3 +7,12 @@
    8 git add .
    9 git status
   10 git commit -m "added testing files"
+
+ git status
+  13 git add gitcommands.txt
+  14 git status
+  15 git commit -m "git commands added"
+  16 git status
+  17 git remote add origin https://github.com/PratikshaPrachi/github-for-devops-workshop.git
+  18 git branch
+  19 git push origin master
